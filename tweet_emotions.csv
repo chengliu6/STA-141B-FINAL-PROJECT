@@ -1,0 +1,11 @@
+Emotion,Value,Majority
+Happy,0.11,Democrat
+Angry,0.06,Democrat
+Surprise,0.2,Democrat
+Sad,0.22,Democrat
+Fear,0.41,Democrat
+Happy,0.16,Republican
+Angry,0.04,Republican
+Surprise,0.22,Republican
+Sad,0.21,Republican
+Fear,0.36,Republican
